@@ -15,26 +15,25 @@ This project leverages **transformers** for question answering based on an uploa
 
 ## Installation 
 
-Clone repo and install required dependencies.
+To get started with the project, follow these steps:
 
-```
+1. Clone the repository and navigate to the project directory:
+   ```bash
+   git clone https://github.com/arnabsroy9/Visual-Question-Answer.git
+   cd Visual-Question-Answer
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-git clone https://github.com/arnabsroy9/Visual-Question-Answer.git
-cd Visual-Question-Answer
-pip install -r requirements.txt
-
-```
-
-
-
-### Your environmwnt is ready...
+### Your environment is now ready!
 
 ## Inference 
 
-Open terminal in Visual-Question-Answer/app and execute: 
-```
-python main.py
-```
+To run, open the terminal in the Visual-Question-Answer/app directory and execute the following command: 
+   ```bash
+   python main.py
+   ```
+
 ## Output preview
 
 ![Output Preview](./assets/output.jpg)
